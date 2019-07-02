@@ -12,12 +12,12 @@ Here is a 9 minutes video of what you are going to build:
 
 **Presentation slides:**
 
-![image](./slide1.jpeg)
-![image](./slide2.jpeg)
-![image](slide3.jpeg)
-![image](slide4.jpeg)
-![image](slide5.jpeg)
-![image](slide6.jpeg)
-![image](slide7.jpeg)
+![image](Slide1.jpeg)
+![image](Slide2.jpeg)
+![image](Slide3.jpeg)
+![image](Slide4.jpeg)
+![image](Slide5.jpeg)
+![image](Slide6.jpeg)
+![image](Slide7.jpeg)
 
 In this tutorial you will create a classification model that will predict whether a given customer is likely to churn or not.
