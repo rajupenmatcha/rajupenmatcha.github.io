@@ -1,1 +1,77 @@
-
+<!DOCTYPE>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>SageMaker: Build, Train, and Deploy a Machine Learning Model</title>
+    <link rel="stylesheet" href="https://unpkg.com/docute@4/dist/docute.css">
+  </head>
+  <body>
+    <div id="docute"></div>
+    <script src="https://unpkg.com/docute@4/dist/docute.js"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js')
+      }
+      new Docute({
+        target: '#docute',
+        title: "SageMaker: Build, Train, Deploy a Machine Learning Model",
+        sourcePath: '/',
+        layout: "narrow",
+        theme: "default",
+        cssVariables: {
+          headerBackground: "white",
+          sidebarBackground: "white",
+          pageBackground: "white",
+          textColor: "#333"
+        },
+        router: { mode: 'history' },
+        nav: [
+        ],
+        sidebar: [
+            {
+              title: "",
+              children: [
+              {
+                title: "Overview",
+                link: "overview"
+              },
+              {
+                title: "Introduction",
+                link: "introduction"
+              },
+              {
+                title: "1. Create a notebook",
+                link: "create-notebook"
+              },
+              {
+                title: "2. Data preprocessing",
+                link: "data-preprocessing"
+              },
+              {
+                title: "3. Feature selection",
+                link: "feature"
+              },
+              {
+                title: "4. Training",
+                link: "training"
+              },
+              {
+                title: "5. Deploy the model",
+                link: "deploy"
+              },
+              {
+                title: "6. Evaluate the model",
+                link: "evaluate-model"
+              },
+              {
+                title: "7. Delete the resources",
+                link: "delete-resources"
+              },
+              ]
+            },
+        ]
+      })
+    </script>
+  </body>
+</html>
