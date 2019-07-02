@@ -12,8 +12,8 @@ Here is a 9 minutes video of what you are going to build:
 
 **Presentation slides:**
 
-![image](slide1.jpeg)
-![image](slide2.jpeg)
+![image](./slide1.jpeg)
+![image](./slide2.jpeg)
 ![image](slide3.jpeg)
 ![image](slide4.jpeg)
 ![image](slide5.jpeg)
