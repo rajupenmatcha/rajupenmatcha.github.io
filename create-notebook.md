@@ -3,10 +3,6 @@
 * **Key topics or concepts:** Create a notebook instance to successfully complete this tutorial.
 * **Estimated time:** 8 minutes
 
-Here is a 5 minutes video of this step:
-
-<iframe src="https://broadcast.amazon.com/embed/140003" width="682" height="384" style="border:0" allowfullscreen></iframe>
-
 Open the AWS console and search for SageMaker under the services.
 
 1. In the left hand pannel, click on Notebook Instances. Then Create Notebook.
