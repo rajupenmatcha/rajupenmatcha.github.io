@@ -8,7 +8,7 @@ Wondering about how to get started with SageMaker? How to build a ML model, trai
 
 Here is a 9 minutes video of what you are going to build:
 
-<iframe src=" https://youtu.be/smsKhmF_N5Q" width="682" height="384" style="border:0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smsKhmF_N5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Presentation slides:**
 
