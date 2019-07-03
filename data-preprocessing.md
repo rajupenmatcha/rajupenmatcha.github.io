@@ -59,21 +59,23 @@ churn
 ```
 By modern standards, it’s a relatively small dataset, with only 3,333 records, where each record uses 21 attributes to describe the profile of a customer of an unknown US mobile operator. The attributes are:
 
-State: the US state in which the customer resides, indicated by a two-letter abbreviation; for example, OH or NJ
-Account Length: the number of days that this account has been active
-Area Code: the three-digit area code of the corresponding customer’s phone number
-Phone: the remaining seven-digit phone number
-Int’l Plan: whether the customer has an international calling plan: yes/no
-VMail Plan: whether the customer has a voice mail feature: yes/no
-VMail Message: presumably the average number of voice mail messages per month
-Day Mins: the total number of calling minutes used during the day
-Day Calls: the total number of calls placed during the day
-Day Charge: the billed cost of daytime calls
-Eve Mins, Eve Calls, Eve Charge: the billed cost for calls placed during the evening
-Night Mins, Night Calls, Night Charge: the billed cost for calls placed during nighttime
-Intl Mins, Intl Calls, Intl Charge: the billed cost for international calls
-CustServ Calls: the number of calls placed to Customer Service
-Churn?: whether the customer left the service: true/false
+```python
+	State: the US state in which the customer resides, indicated by a two-letter abbreviation; for example, OH or NJ
+	Account Length: the number of days that this account has been active
+	Area Code: the three-digit area code of the corresponding customer’s phone number
+	Phone: the remaining seven-digit phone number
+	Int’l Plan: whether the customer has an international calling plan: yes/no
+	VMail Plan: whether the customer has a voice mail feature: yes/no
+	VMail Message: presumably the average number of voice mail messages per month
+	Day Mins: the total number of calling minutes used during the day
+	Day Calls: the total number of calls placed during the day
+	Day Charge: the billed cost of daytime calls
+	Eve Mins, Eve Calls, Eve Charge: the billed cost for calls placed during the evening
+	Night Mins, Night Calls, Night Charge: the billed cost for calls placed during nighttime
+	Intl Mins, Intl Calls, Intl Charge: the billed cost for international calls
+	CustServ Calls: the number of calls placed to Customer Service
+	Churn?: whether the customer left the service: true/false
+```
 
 The last attribute, Churn?, is known as the target attribute–the attribute that we want the ML model to predict. Because the target attribute is binary, our model will be performing binary prediction, also known as binary classification.
 
