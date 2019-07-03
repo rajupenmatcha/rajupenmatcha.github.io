@@ -6,7 +6,7 @@
 
 Wondering about how to get started with SageMaker? How to build a ML model, train, and deploy it to production? You’re in luck! This tutorial is intended for folks who want to learn about SageMaker and haven’t used it before! Most of the steps in this tutorial have a short video at the beginning of the step. The video is a demonstration of the step with some additional insights so we recommend that you watch it before you follow the steps unless you are already familiar with SageMaker and just want to copy paste the commands from the tutorial and get up and running quickly.
 
-Here is a 9 minutes video of what you are going to build:
+Here is a 11 minutes video of what you are going to build:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smsKhmF_N5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
