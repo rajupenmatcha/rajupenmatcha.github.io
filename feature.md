@@ -1,11 +1,7 @@
-# 3. Feature engineering and Feature selection
+# 3. Feature engineering and selection
 
 * **Key topics or concepts:** Let us engineer some new features and drop any unnecessary features
 * **Estimated time:** 5 minutes
-
-Here is a 6 minutes video of this step:
-
-<iframe src="https://broadcast.amazon.com/embed/140005" width="682" height="384" style="border:0" allowfullscreen></iframe>
 
 Feature "phone" can be dropped and Area Code needs to be non-numeric
 
@@ -38,11 +34,11 @@ plt.show()
 
 Interestingly we see that churners appear:
 
-    Fairly evenly distributed geographically
-    More likely to have an international plan
-    Less likely to have a voicemail plan
-    To exhibit some bimodality in daily minutes (either higher or lower than the average for non-churners)
-    To have a larger number of customer service calls (which makes sense as we'd expect customers who experience lots of problems may be more likely to churn)
+Fairly evenly distributed geographically    
+More likely to have an international plan
+Less likely to have a voicemail plan
+To exhibit some bimodality in daily minutes (either higher or lower than the average for non-churners)
+To have a larger number of customer service calls (which makes sense as we'd expect customers who experience lots of problems may be more likely to churn)
 
 In addition, we see that churners take on very similar distributions for features like Day Mins and Day Charge. That's not surprising as we'd expect minutes spent talking to correlate with charges. Let's dig deeper into the relationships between our features.
 

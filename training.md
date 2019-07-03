@@ -3,10 +3,6 @@
 * **Key topics or concepts:** After setting training parameters, we kick off training, and poll for status until training is completed.
 * **Estimated time:** 5 minutes
 
-Here is a 3 minutes video of this step:
-
-<iframe src="https://broadcast.amazon.com/embed/140013" width="682" height="384" style="border:0" allowfullscreen></iframe>
-
 We split original dataset into train, validate, and test subsets
 
 We set training parameters - location for S3 to store data and model are provided here. 

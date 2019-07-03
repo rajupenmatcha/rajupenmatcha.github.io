@@ -3,10 +3,6 @@
 * **Key topics or concepts:** Create an endpoint.
 * **Estimated time:** 12 minutes
 
-Here is a 3 minutes video of this step:
-
-<iframe src="https://broadcast.amazon.com/embed/140014" width="682" height="384" style="border:0" allowfullscreen></iframe>
-
 We will now deploy the model we just trained behind a real-time hosted endpoint.
 
 Note: This step can only be run after the previous step is successfully run. Otherwise it fails.
