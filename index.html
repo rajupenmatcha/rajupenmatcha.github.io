@@ -10,9 +10,6 @@
     <div id="docute"></div>
     <script src="https://unpkg.com/docute@4/dist/docute.js"></script>
     <script>
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-      }
       new Docute({
         target: '#docute',
         title: "SageMaker: Build, Train, Deploy a Machine Learning Model..",
@@ -25,7 +22,6 @@
           pageBackground: "white",
           textColor: "black"
         },
-        router: { mode: 'history' },
         nav: [
         ],
         sidebar: [
