@@ -3,6 +3,9 @@
 * **Key topics or concepts:** Understand what you built
 * **Estimated time:** 5 minutes
 
+Here is a 3 minute video for this part:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7T3NvcRnZjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Now that we have a hosted endpoint running, we can make real-time predictions from our model very easily, simply by making an http POST request. But first, we'll need to setup serializers and deserializers for passing our test_data NumPy arrays to the model behind the endpoint.
 
 ```python

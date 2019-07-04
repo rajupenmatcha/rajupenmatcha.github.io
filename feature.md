@@ -3,6 +3,9 @@
 * **Key topics or concepts:** Let us engineer some new features and drop any unnecessary features
 * **Estimated time:** 5 minutes
 
+Here is the 4 minute video of this part:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DvPremfqTeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Feature "phone" can be dropped and Area Code needs to be non-numeric
 
 ```python
