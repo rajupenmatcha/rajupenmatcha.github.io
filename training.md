@@ -1,4 +1,4 @@
-# 3. Training
+# 4. Training
 
 * **Key topics or concepts:** After setting training parameters, we kick off training, and poll for status until training is completed.
 * **Estimated time:** 5 minutes

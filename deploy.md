@@ -1,4 +1,4 @@
-# 4. Deploy the model
+# 5. Deploy the model
 
 * **Key topics or concepts:** Create an endpoint.
 * **Estimated time:** 12 minutes

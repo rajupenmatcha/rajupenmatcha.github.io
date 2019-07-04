@@ -1,4 +1,4 @@
-# 6. Delete the resources
+# 7. Delete the resources
 
 * **Key topics or concepts:** Delete the resources to stop incurring costs
 * **Estimated time:** 3 minutes

@@ -3,6 +3,9 @@
 * **Key topics or concepts:** Let us see how the data looks like and perform pre-processing
 * **Estimated time:** 5 minutes
 
+Below is a 7 minute video on this part:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zxLq6iMLfxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 First lets create a notebook and start with data pre-processing. For this example, we'll use the telecom churn dataset from UC Irvine, 
 which contains 3,333 records and 21 attributes and labels for each record on customer churn. 
 We transfer the data to S3 for use in training, inspect the data, understand the distributions, and determine what type(s) of preprocessing might be needed.

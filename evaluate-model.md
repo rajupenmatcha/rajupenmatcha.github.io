@@ -1,4 +1,4 @@
-# 5. Validate the model
+# 6. Validate the model
 
 * **Key topics or concepts:** Understand what you built
 * **Estimated time:** 5 minutes
