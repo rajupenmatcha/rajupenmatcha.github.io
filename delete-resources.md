@@ -14,4 +14,4 @@ The below code will only delete the endpoint you created in deploy step. To dele
 sagemaker.Session().delete_endpoint(xgb_predictor.endpoint)
 ```
 
-You are awesome! Thanks for competing the course. Please let us know if there are other topics you want us to cover or if you want to work with us on building similar tutorials
+You are awesome! Thanks for competing the course. Please let us know if there are other topics you want us to cover or if you want to work with us on building similar tutorials.
